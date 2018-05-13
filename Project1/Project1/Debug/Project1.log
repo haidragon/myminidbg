@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\1234\desktop\allenboydbg\project1\project1\源.cpp(6): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  Project1.vcxproj -> C:\Users\1234\Desktop\allenboydbg\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\1234\Desktop\allenboydbg\Project1\Debug\Project1.pdb (Partial PDB)

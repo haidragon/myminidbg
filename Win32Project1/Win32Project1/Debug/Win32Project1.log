@@ -1,0 +1,21 @@
+﻿  main.cpp
+\\mac\home\desktop\allenboydbg\win32project1\win32project1\main.cpp(3): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+\\mac\home\desktop\allenboydbg\win32project1\win32project1\main.cpp(3): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“HANDLE”
+\\mac\home\desktop\allenboydbg\win32project1\win32project1\main.cpp(3): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“DEBUG_EVENT”
+\\mac\home\desktop\allenboydbg\win32project1\win32project1\main.cpp(3): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“std::map<std::string,pVoidFun,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> *”
+          with
+          [
+              _Kty=std::string,
+              _Ty=pVoidFun
+          ]
+\\mac\home\desktop\allenboydbg\win32project1\win32project1\main.cpp(4): warning C4477: “printf”: 格式字符串“%08x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“std::map<std::string,pVoidFun,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> **”
+          with
+          [
+              _Kty=std::string,
+              _Ty=pVoidFun
+          ]
+  dll.cpp
+  正在生成代码...
+    正在创建库 \\Mac\Home\Desktop\allenboydbg\Win32Project1\Debug\Win32Project1.lib 和对象 \\Mac\Home\Desktop\allenboydbg\Win32Project1\Debug\Win32Project1.exp
+  Win32Project1.vcxproj -> \\Mac\Home\Desktop\allenboydbg\Win32Project1\Debug\Win32Project1.dll
+  Win32Project1.vcxproj -> \\Mac\Home\Desktop\allenboydbg\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
