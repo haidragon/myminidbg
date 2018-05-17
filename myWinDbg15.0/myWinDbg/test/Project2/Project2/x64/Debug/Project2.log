@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\1234\desktop\allenboydbg\mywindbg17.0添加hook\mywindbg\test\project2\project2\源.cpp(24): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+c:\users\1234\desktop\allenboydbg\mywindbg17.0添加hook\mywindbg\test\project2\project2\源.cpp(25): warning C4091: “”: 没有声明变量时忽略“int”的左侧
+c:\users\1234\desktop\allenboydbg\mywindbg17.0添加hook\mywindbg\test\project2\project2\源.cpp(25): error C2143: 语法错误: 缺少“;”(在“常量”的前面)
